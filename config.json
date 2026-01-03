@@ -1,0 +1,7 @@
+{
+    "watched_event_ids": [4688, 4625, 4720, 4732, 4728, 1102],
+    "blocked_countries": ["Russia", "China", "North Korea"],
+    "whitelist_processes": ["svchost.exe", "smartscreen.exe", "conhost.exe", "SearchHost.exe", "installer.exe", "ApplicationFrameHost.exe", "RuntimeBroker.exe", "comet.exe", "vlc.exe", "Bitwarden.exe", "dllhost.exe", "FileCoAuth.exe", "downloader.exe", "updatesrv.exe" ],
+    "abuseipdb_key": "API KEY HERE",
+    "log_file": "siem_log.csv"
+}
