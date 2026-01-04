@@ -6,6 +6,9 @@
 Voit ladata valmiin asennustiedoston suoraan tästä:
 **[📥 SIEM PRO BETA v1.0.0-beta](https://github.com/kvScepter/Poor-mans-SIEM-for-WIN11/releases/tag/v1.0.0-beta)**
 
+[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/kvScepter/Poor-mans-SIEM-for-WIN11?include_prereleases&label=Lataa%20Windows-asennusohjelma&style=for-the-badge)](https://github.com/kvScepter/Poor-mans-SIEM-for-WIN11/releases/tag/v1.0.0-beta)
+
+
 ---
 
 
