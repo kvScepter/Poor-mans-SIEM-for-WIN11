@@ -1,3 +1,14 @@
+# 🚀 Windows Installer saatavilla!
+
+> [!NOTE]
+> Ohjelmasta on julkaistu ensimmäinen Windows-asennuspaketti helpottamaan käyttöönottoa.
+
+Voit ladata valmiin asennustiedoston suoraan tästä:
+**[📥 SIEM PRO BETA v1.0.0-beta](https://github.com/kvScepter/Poor-mans-SIEM-for-WIN11/releases/tag/v1.0.0-beta)**
+
+---
+
+
 # 🛡️ SIEM Ultimate Dashboard v4.5
 
 **SIEM Ultimate Dashboard** on kevyt ja moderni tietoturvan hallintatyökalu (Security Information and Event Management), joka on suunniteltu Windows-ympäristön reaaliaikaiseen valvontaan. Sovellus yhdistää lokien seurannan ja verkkoanalyysin yksinkertaiseen käyttöliittymään. 
