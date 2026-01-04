@@ -1,7 +1,6 @@
 # 🛡️ SIEM Ultimate Dashboard v4.5
 
-**SIEM Ultimate Dashboard** on kevyt ja moderni tietoturvan hallintatyökalu (Security Information and Event Management), joka on suunniteltu Windows-ympäristön reaaliaikaiseen valvontaan. Sovellus yhdistää lokien seurannan, verkkoanalyysin ja rikosteknisen tutkinnan yhteen moderniin käyttöliittymään.[1]
-
+**SIEM Ultimate Dashboard** on kevyt ja moderni tietoturvan hallintatyökalu (Security Information and Event Management), joka on suunniteltu Windows-ympäristön reaaliaikaiseen valvontaan. Sovellus yhdistää lokien seurannan ja verkkoanalyysin yksinkertaiseen käyttöliittymään. 
 ---
 
 ## 🚀 Ominaisuudet
